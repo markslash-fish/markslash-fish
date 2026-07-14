@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Mark Daniel F. Gruezo 
 
 🎓 **B.S. in Entertainment and Multimedia Computing(BSEMC) Specialized in Game Development**
+
 🎮 **Aspiring Gameplay Programmer, Game Designer, Level Designer**
 
 ---
