@@ -8,7 +8,7 @@
 
 ## About Me 🫴: 
 
-I am a 4th year student of BSEMC that is passionate in turning creative ideas into an interactive experience in the form of video games. I focused myself in honing my skills in Game Development, specifically in the field of game scripting making polished game and level designs.
+I am a 4th year student of BSEMC that is passionate in turning creative ideas into an interactive experience in the form of video games. I focus myself in honing my skills in Game Development, specifically in the field of game scripting and making polished/level designs.
 
 ---
 
