@@ -36,8 +36,7 @@ I am a 4th year student of BSEMC that is passionate in turning creative ideas in
 * UI Asset Management
 * Level Design
   
-###
-* Black's Myth
+### Black's Myth
 * Player Mechanics
 * UI/Animation Asset Management
 * Simple Enemy AI
@@ -46,9 +45,9 @@ I am a 4th year student of BSEMC that is passionate in turning creative ideas in
 
 ---
 
-💻 Technical Skills:
+## 💻 Technical Skills:
 
-🎮 Game Development:
+### 🎮 Game Development
 * Unity C#
 * Unity Netcode for GameObjects
 * Game Design
@@ -59,7 +58,7 @@ I am a 4th year student of BSEMC that is passionate in turning creative ideas in
 * Vibe Coding
 * Version Control
   
-🛠️ Tools used:
+### 🛠️ Tools used
 * Github
 * Visual Studio 2022
 * Unity Engine
@@ -67,8 +66,8 @@ I am a 4th year student of BSEMC that is passionate in turning creative ideas in
 
 ---
 
-☎️ Contacts
+## ☎️ Contacts:
 
-📧 Email:markslash920@gmail.com
+### 📧 Email:markslash920@gmail.com
 
-Github: https://github.com/markslash-fish
+### Github: https://github.com/markslash-fish
