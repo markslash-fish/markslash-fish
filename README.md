@@ -46,9 +46,9 @@ I am a 4th year student of BSEMC that is passionate in turning creative ideas in
 
 ---
 
-##💻 Technical Skills:
+💻 Technical Skills:
 
-###🎮 Game Development:
+🎮 Game Development:
 * Unity C#
 * Unity Netcode for GameObjects
 * Game Design
@@ -59,7 +59,7 @@ I am a 4th year student of BSEMC that is passionate in turning creative ideas in
 * Vibe Coding
 * Version Control
   
-###🛠️ Tools used:
+🛠️ Tools used:
 * Github
 * Visual Studio 2022
 * Unity Engine
@@ -67,7 +67,7 @@ I am a 4th year student of BSEMC that is passionate in turning creative ideas in
 
 ---
 
-##☎️ Contacts
+☎️ Contacts
 
 📧 Email:markslash920@gmail.com
 
